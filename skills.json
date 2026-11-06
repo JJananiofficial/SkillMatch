@@ -1,0 +1,20 @@
+{
+  "Programming": [
+    "python", "java", "c", "c++", "c#", "javascript", "typescript", "go", "php", "r"
+  ],
+  "Web": [
+    "html", "css", "react", "angular", "vue", "node.js", "express", "django", "flask", "fastapi"
+  ],
+  "Data": [
+    "sql", "mysql", "postgresql", "mongodb", "pandas", "numpy", "power bi", "tableau", "excel", "data analysis", "data visualization"
+  ],
+  "AI_ML": [
+    "machine learning", "deep learning", "nlp", "computer vision", "tensorflow", "keras", "pytorch", "scikit-learn", "opencv", "mediapipe"
+  ],
+  "Cloud_DevOps": [
+    "aws", "azure", "google cloud", "docker", "kubernetes", "git", "github", "ci/cd", "linux"
+  ],
+  "Other": [
+    "rest api", "api", "cybersecurity", "cloud computing", "data structures", "algorithms", "oop"
+  ]
+}

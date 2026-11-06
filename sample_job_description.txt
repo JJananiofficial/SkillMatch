@@ -1,0 +1,7 @@
+Junior AI/ML Engineer
+Requirements:
+- Strong programming skills in Python and C++.
+- Experience with Machine Learning and Deep Learning.
+- Familiarity with TensorFlow or PyTorch.
+- Knowledge of Cloud Computing (AWS or Docker is a plus).
+- Good understanding of SQL and Pandas for Data Analysis.

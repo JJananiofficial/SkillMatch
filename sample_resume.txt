@@ -1,0 +1,6 @@
+John Doe
+Software Engineering Student
+Skills: Python, Java, SQL, Machine Learning, Data Structures, Algorithms, Git, GitHub.
+Experience:
+- Built a predictive model using Scikit-learn and Pandas.
+- Developed a web backend using Django and PostgreSQL.
